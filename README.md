@@ -1,7 +1,7 @@
 <h1 align="center">Hi!! 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">I'm a Student,Coder,Creator And Software developer!!</h3>
 
-<"img align="right,centre"alt="coding"width="500"src= "![image](https://user-images.githubusercontent.com/125793049/219952863-abe0f88f-485c-4c04-89dc-b2618dcaaa95.png)
+<"img align="right-centre"alt="coding"width="500"src= "![image](https://user-images.githubusercontent.com/125793049/219952863-abe0f88f-485c-4c04-89dc-b2618dcaaa95.png)
  ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh12012407&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh12012407" /> </p>
